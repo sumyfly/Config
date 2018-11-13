@@ -1,0 +1,686 @@
+[
+  {
+    "hidden": false,
+    "label": "FnB/Bar",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "FnB/Bar"
+  },
+  {
+    "hidden": false,
+    "label": "FnB/Foodcourt",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "FnB/Foodcourt"
+  },
+  {
+    "hidden": false,
+    "label": "FnB/Ice Cream Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "FnB/Ice Cream Store"
+  },
+  {
+    "hidden": false,
+    "label": "FnB/Kopitiam",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "FnB/Kopitiam"
+  },
+  {
+    "hidden": false,
+    "label": "FnB/Quickserve",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "FnB/Quickserve"
+  },
+  {
+    "hidden": false,
+    "label": "FnB/Restaurants",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "FnB/Restaurants"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Alcohol/ Liquor Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Alcohol/ Liquor Store"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Clothing Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Clothing Store"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Computer Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Computer Store"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Cosmetics/Skincare/Perfume",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Cosmetics/Skincare/Perfume"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Electronics Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Electronics Store"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Convenience Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Convenience Store"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Fashion Accessory",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Fashion Accessory"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Fruit Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Fruit Store"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Game Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Game Store"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Glasses",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Glasses"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Grocery Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Grocery Store"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Hobby Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Hobby Store"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Jewellery Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Jewellery Store"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Mobile phone Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Mobile phone Store"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Shoe/bag shop",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Shoe/bag shop"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Sports shop",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Sports shop"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Stationary Shop",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Stationary Shop"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Sweets/Chocolate",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Sweets/Chocolate"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Tobacco and Cigar Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Tobacco and Cigar Store"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Toy Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Toy Store"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Vape Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Vape Store"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Watch Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Watch Store"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Wet/Fresh Market",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Wet/Fresh Market"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Wholesaler",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Wholesaler"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Barbershop",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Barbershop"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Beauty and Healthcare/Supplements",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Beauty and Healthcare/Supplements"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Bridal Store",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Bridal Store"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Car Workshop",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Car Workshop"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Car Detailing",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Car Detailing"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Clinics",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Clinics"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Flowers",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Flowers"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Carwash",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Carwash"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Activities",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Activities"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Gym and fitness",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Gym and fitness"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Hair Salon",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Hair Salon"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Hotel",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Hotel"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Karaoke",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Karaoke"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Leather Care/cleaning",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Leather Care/cleaning"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Nail Salon",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Nail Salon"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Printing",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Printing"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Tailoring",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Tailoring"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Spa",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Spa"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Tattoos",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Tattoos"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Transportation",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Transportation"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Travel and Tour",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Travel and Tour"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Tuition and Education Centre",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Tuition and Education Centre"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Movies",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Movies"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Pharmacy",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Service/Pharmacy"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Photo Shop",
+    "description": null,
+    "displayOrder": -1,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Photo Shop"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Bookshop",
+    "description": null,
+    "displayOrder": 2,
+    "readOnly": false,
+    "doubleData": 0.0,
+    "value": "98"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Boutique",
+    "description": null,
+    "displayOrder": 3,
+    "readOnly": false,
+    "doubleData": 0.0,
+    "value": "104"
+  },
+  {
+    "hidden": false,
+    "label": "FnB/Cafe",
+    "description": null,
+    "displayOrder": 4,
+    "readOnly": false,
+    "doubleData": 0.0,
+    "value": "102"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Classes",
+    "description": null,
+    "displayOrder": 5,
+    "readOnly": false,
+    "doubleData": 0.0,
+    "value": "103"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Hardware",
+    "description": null,
+    "displayOrder": 6,
+    "readOnly": false,
+    "doubleData": 0.0,
+    "value": "96"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Online Store",
+    "description": null,
+    "displayOrder": 7,
+    "readOnly": false,
+    "doubleData": 0.0,
+    "value": "Retail/Online Store"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Kiosk",
+    "description": null,
+    "displayOrder": 8,
+    "readOnly": false,
+    "doubleData": 0.0,
+    "value": "Retail/Kiosk"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Laundry",
+    "description": null,
+    "displayOrder": 9,
+    "readOnly": false,
+    "doubleData": 0.0,
+    "value": "99"
+  },
+  {
+    "hidden": false,
+    "label": "FnB/Mamak",
+    "description": null,
+    "displayOrder": 10,
+    "readOnly": false,
+    "doubleData": 0.0,
+    "value": "105"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Mini-Market",
+    "description": null,
+    "displayOrder": 11,
+    "readOnly": false,
+    "doubleData": 0.0,
+    "value": "100"
+  },
+  {
+    "hidden": false,
+    "label": "Mobile Phones/Electronics",
+    "description": null,
+    "displayOrder": 13,
+    "readOnly": false,
+    "doubleData": 0.0,
+    "value": "107"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Pet Shop",
+    "description": null,
+    "displayOrder": 15,
+    "readOnly": false,
+    "doubleData": 0.0,
+    "value": "97"
+  },
+  {
+    "hidden": false,
+    "label": "Service/Salon/Spa",
+    "description": null,
+    "displayOrder": 17,
+    "readOnly": false,
+    "doubleData": 0.0,
+    "value": "111"
+  },
+  {
+    "hidden": false,
+    "label": "FnB/Food Truck",
+    "description": null,
+    "displayOrder": 18,
+    "readOnly": false,
+    "doubleData": 0.0,
+    "value": "124"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Sari-Sari",
+    "description": null,
+    "displayOrder": 19,
+    "readOnly": null,
+    "doubleData": null,
+    "value": "Retail/Sari-Sari"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Souvenir Shop",
+    "description": null,
+    "displayOrder": 20,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Souvenir Shop"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Bakery",
+    "description": null,
+    "displayOrder": 21,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Bakery"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Baby Shop",
+    "description": null,
+    "displayOrder": 22,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Baby Shop"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Car Accessory",
+    "description": null,
+    "displayOrder": 23,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Car Accessory"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Religious Store/Materials",
+    "description": null,
+    "displayOrder": 24,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Religious Store/Materials"
+  },
+  {
+    "hidden": false,
+    "label": "Retail/Kitchen/Household Products",
+    "description": null,
+    "displayOrder": 25,
+    "readOnly": false,
+    "doubleData": null,
+    "value": "Retail/Kitchen/Household Products"
+  }
+]
